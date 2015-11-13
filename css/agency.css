@@ -345,6 +345,13 @@ section h3.section-subheading {
     }
 }
 
+/* damien carousel*/
+#slide {
+    height: 500px;
+    width: 100%;
+}
+/* damien carousel*/
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
@@ -863,5 +870,9 @@ img::-moz-selection {
 }
 
 body {
+<<<<<<< HEAD
+    webkit-tap-highlight-color: #fed136;
+=======
     webkit-tap-highlight-color: #8e1e1d;
+>>>>>>> jade
 }
